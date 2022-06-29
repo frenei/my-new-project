@@ -17,6 +17,7 @@ However how are you going to use AI in your business and the integration of AI i
 * Become a data-driven organization
 * Make use of Big Data
 * Implement AI from scratch
+
 Why not let AI do the work from the start?
 
 ## How is it used?
