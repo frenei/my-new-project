@@ -12,13 +12,12 @@ AI as part of BI (Business Intelligence) has become hot subject over the last ye
 
 ## Background
 
-However how are you going to use AI in your business and the integration of AI into the business is a very complex area. AI is not just a bag of algorithms it is unlimited, meaning it is only your imagination that can put a limit to its use. To make it even more complicated, one company is not like any other company and its BI will never be the same on two companies. So instead of struggling with how to become BI, data-driven, use Big Data and finally implement AI why not let AI do the work from the start?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+However how are you going to use AI in your business and the integration of AI into the business is a very complex area. AI is not just a bag of algorithms it is unlimited, meaning it is only your imagination that can put a limit to its use. To make it even more complicated, one company is not like any other company and its BI will never be the same on two companies. So instead of struggling with how to:
+* Implement initial BI
+* Become a data-driven organization
+* Make use of Big Data
+* Implement AI from scratch
+Why not let AI do the work from the start?
 
 ## How is it used?
 
