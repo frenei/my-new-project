@@ -32,17 +32,12 @@ Here the thing. We start with nothing and there are no users. The first user wil
 
 The challenge is the complexity of AI itself. It will require a very good understanding of the latest areas of AI and how to adopt them into understanding what to produce and interpret from all the data. So how should one think? There is a saying “all roads lead to Rome” and by this it should not matter that you start the process from the end and move forward by creating things that should have been done in the past.
 
-## Challanges
-
-
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Well, we are not there yet but the ultimate event would be to have an AI running their own business and creating all the necessary BI for this its own purpose. This may be several hundred years from now but eventually it will happen.
+There are already some companies which have started to produce AI software products with this purpose in mind but they there is still no evidnce for its usefulness
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Sources of inspiration:
+* (https://datasemantics.co/7-ai-in-bi-use-cases/)
