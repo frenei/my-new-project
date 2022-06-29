@@ -26,45 +26,18 @@ Start off with a Big bang and connect all data in the organization so that it ca
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Here the thing. We start with nothing and there are no users. The first user will be the AI and it will grow from there into the organization as things progress with the AI’s unique evolution from the data process on that particular company. More and more people will get involved with time and all the non-existing BI techniques will grow in parallel instead for a long and time-consuming timeline as a sequence. The latter is very tiresome for all humans when it clashes with their daily work in the organization.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+## Challanges
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+The challenge is the complexity of AI itself. It will require a very good understanding of the latest areas of AI and how to adopt them into understanding what to produce and interpret from all the data. So how should one think? There is a saying “all roads lead to Rome” and by this it should not matter that you start the process from the end and move forward by creating things that should have been done in the past.
 
-   # write your solution here
+## Challanges
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
 
 ## Acknowledgments
 
