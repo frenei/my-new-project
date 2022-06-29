@@ -2,18 +2,17 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Use AI to analyze how to setup Business Intelligence with AI
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+AI as part of BI (Business Intelligence) has become hot subject over the last years. Here’s the thing, everyone starts with BI and evolve into a data-driven organization, move on to BigData and then AI. Why not flip the coin and start with AI to get the all the answers for this journey?
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+However how are you going to use AI in your business and the integration of AI into the business is a very complex area. AI is not just a bag of algorithms it is unlimited, meaning it is only your imagination that can put a limit to its use. To make it even more complicated, one company is not like any other company and its BI will never be the same on two companies. So instead of struggling with how to become BI, data-driven, use Big Data and finally implement AI why not let AI do the work from the start?
 
 This is how you make a list, if you need one:
 * problem 1
